@@ -14,6 +14,11 @@ Mac
 ---
 
 * #### Mac App
+   * Dev Tools
+      * Intellij IDE
+      * Pycharm
+      * WebStorm
+      * SublimeText
 
 
 
