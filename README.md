@@ -18,7 +18,7 @@ Mac
 
 
 * ##### Mac Configuration
-    *[Install RoboCup Soccer 2D on Mac](http://jpollo.logdown.com/posts/178653-install-robocup-soccer-2d-on-mac)
+    * [Install RoboCup Soccer 2D on Mac](http://jpollo.logdown.com/posts/178653-install-robocup-soccer-2d-on-mac)
 
 
 
