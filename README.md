@@ -19,6 +19,11 @@ Mac
       * Pycharm
       * WebStorm
       * SublimeText
+    * 效率工具
+        * Arfred
+    * 系统工具
+    * 办公工具
+
 
 
 
