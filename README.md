@@ -18,7 +18,7 @@ Mac
       * Intellij IDE
       * Pycharm
       * WebStorm
-      * SublimeText
+      * [SublimeText](http://jpollo.logdown.com/) 
     * 效率工具
         * Arfred
     * 系统工具
